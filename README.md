@@ -3,6 +3,10 @@ Desafio DIO Guia NotebookLm - Tema Livre
 ***
 Contexto e Objetivos: O assunto escolhido, já que estamos em ano de copa foi a Historia da copa do mundo.
 *************
+[Link NotebookLm](https://notebooklm.google.com/notebook/5bdd1ce3-9011-4bf2-a8e6-9d96530c2c30)
+
+                            Observação :  Feito antes da copa de 2026 ser FINALIZADA.
+*******
 Curadoria de Fontes:
 
 https://www.youtube.com/watch?v=fqVFXkjzC-g
@@ -31,4 +35,4 @@ Mundoeducacao
 
 [Glossário](https://github.com/AlbertoPerereira/-miniguia-estudos-notebooklm/blob/main/Glossario.md)
 
-[prompts reutilizáveis](https://github.com/AlbertoPerereira/-miniguia-estudos-notebooklm/blob/main/Prompts%20reutilizaveis.md)
+[Prompts reutilizáveis](https://github.com/AlbertoPerereira/-miniguia-estudos-notebooklm/blob/main/Prompts%20reutilizaveis.md)
