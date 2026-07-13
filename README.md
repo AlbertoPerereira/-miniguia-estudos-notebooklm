@@ -26,3 +26,9 @@ https://mundoeducacao.uol.com.br/educacao-fisica/copa-mundo.htm
 Mundoeducacao
 ******
 [Resumo](https://github.com/AlbertoPerereira/-miniguia-estudos-notebooklm/blob/main/Resumo.md)
+
+[Testes e Resposta](https://github.com/AlbertoPerereira/-miniguia-estudos-notebooklm/blob/main/Prompts%20Testes%20e%20Respostas.md)
+
+[Glossário](https://github.com/AlbertoPerereira/-miniguia-estudos-notebooklm/blob/main/Glossario.md)
+
+[prompts reutilizáveis](https://github.com/AlbertoPerereira/-miniguia-estudos-notebooklm/blob/main/Prompts%20reutilizaveis.md)
